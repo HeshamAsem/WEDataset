@@ -32,8 +32,39 @@ The work explores:
 ## Directory Structure
 
 - `Binary Mixed Dataset/`
-   - `Binary Mixed Dataset/`
-  
+   - BertAverageData10K.part1.rar
+   - BertAverageData10K.part2.rar
+   - BertAverageData1K.csv
+   - BertAverageData5K.rar
+   - BertPCAData10K.csv
+   - BertPCAData1K.csv
+   - BertPCAData5K.csv
+   - Data10KMixed.csv
+   - Data1KMixed.csv
+   - Data5KMixed.csv
+   - Doc2VecData10K.rar
+   - Doc2VecData1K.csv
+   - Doc2VecData5K.rar
+   - Doc2VecPCAData10K.csv
+   - Doc2VecPCAData1K.csv
+   - Doc2VecPCAData5K.csv
+   - FTAverageData10K.rar
+   - FTAverageData1K.csv
+   - FTAverageData5K.rar
+   - FTPCAData10K.part1.rar
+   - FTPCAData10K.part2.rar
+   - FTPCAData1K.csv
+   - FTPCAData5K.rar
+   - TFIDFData10K.rar
+   - TFIDFData1K.csv
+   - TFIDFData5K.rar
+   - W2VAverageData10K.rar
+   - W2VAverageData1K.csv
+   - W2VAverageData5K.csv
+   - W2VPCAData10K.rar
+   - W2VPCAData1K.csv
+   - W2VPCAData5K.csv
+   - _AllWordsWE.rar
 - `Multi-Class Dataset/`
 - `Radical Binary Dataset/`
   

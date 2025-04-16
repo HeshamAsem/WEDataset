@@ -32,10 +32,11 @@ The work explores:
 ## Directory Structure
 
 - `Binary Mixed Dataset/`
+   - `Binary Mixed Dataset/`
+  
 - `Multi-Class Dataset/`
 - `Radical Binary Dataset/`
-
-- طط
+  
 
 ---
 

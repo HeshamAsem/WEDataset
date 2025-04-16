@@ -66,7 +66,72 @@ The work explores:
    - W2VPCAData5K.csv
    - _AllWordsWE.rar
 - `Multi-Class Dataset/`
+   - BertAverageData10K.part1.rar
+   - BertAverageData10K.part2.rar
+   - BertAverageData1K.rar
+   - BertAverageData5K.rar
+   - BertPCAData10K.rar
+   - BertPCAData1K.rar
+   - BertPCAData5K.rar
+   - Data10KMulti.rar
+   - Data1KMulti.rar
+   - Data5KMulti.rar
+   - Doc2VecData10K.rar
+   - Doc2VecData1K.rar
+   - Doc2VecData5K.rar
+   - Doc2VecPCAData10K.rar
+   - Doc2VecPCAData1K.rar
+   - Doc2VecPCAData5K.rar
+   - FTAverageData10K.rar
+   - FTAverageData1K.rar
+   - FTAverageData5K.rar
+   - FTPCAData10K.part1.rar
+   - FTPCAData10K.part2.rar
+   - FTPCAData1K.rar
+   - FTPCAData5K.rar
+   - TFIDFData10K.rar
+   - TFIDFData1K.rar
+   - TFIDFData5K.rar
+   - W2VAverageData10K.rar
+   - W2VAverageData1K.rar
+   - W2VAverageData5K.rar
+   - W2VPCAData10K.rar
+   - W2VPCAData1K.rar
+   - W2VPCAData5K.rar
 - `Radical Binary Dataset/`
+   - BertAverageData10K.part1.rar
+   - BertAverageData10K.part2.rar
+   - BertAverageData1K.csv
+   - BertAverageData5K.zip
+   - BertPCAData10K.csv
+   - BertPCAData1K.csv
+   - BertPCAData5K.csv
+   - Data10K.csv
+   - Data1K.csv
+   - Data5K.csv
+   - Doc2VecData10K.zip
+   - Doc2VecData1K.csv
+   - Doc2VecData5K.csv
+   - Doc2VecPCAData10K.csv
+   - Doc2VecPCAData1K.csv
+   - Doc2VecPCAData5K.csv
+   - FTAverageData10K.zip
+   - FTAverageData1K.csv
+   - FTAverageData5K.zip
+   - FTPCAData10K.part1.rar
+   - FTPCAData10K.part2.rar
+   - FTPCAData1K.csv
+   - FTPCAData5K.zip
+   - TFIDFData10K.zip
+   - TFIDFData1K.csv
+   - TFIDFData5K.zip
+   - W2VAverageData10K.csv
+   - W2VAverageData1K.csv
+   - W2VAverageData5K.csv
+   - W2VPCAData10K.csv
+   - W2VPCAData1K.csv
+   - W2VPCAData5K.csv
+   - _AllWordsWE.zip 
   
 
 ---
